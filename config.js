@@ -120,9 +120,11 @@ var config = {
                 {
                     layer: 'gnpglaciers-2015',
                     opacity: 0
-                }
+                  }
             ]
-        };
+         }
+    ]
+};
        
        
        
